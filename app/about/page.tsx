@@ -16,12 +16,12 @@ export default function AboutPage() {
     <section>
       <h1 className="font-bold text-3xl font-serif">About Me</h1>
       <p className="my-5 text-neutral-800 dark:text-neutral-200">
-        Hey, I'm Madeleine. I'm a student in <b>SMA Karangturi<b/>.
+        Hey, I'm Madeleine. I'm a student in <b>SMA Karangturi</b>.
       </p>
       <div className="prose prose-neutral dark:prose-invert text-neutral-800 dark:text-neutral-200">
         <p>
           I'm currently in an organtization in SMA Karangturi, called <b>Karangturi
-          Magazines<b/> or <b>KMagz<b/>. I like desgining my own websites.
+          Magazines</b> or <b>KMagz</b>. I like desgining my own websites.
         </p>
         <hr />
         <p>
